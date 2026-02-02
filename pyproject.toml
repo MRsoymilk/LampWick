@@ -1,0 +1,15 @@
+[project]
+name = "LampWick"
+
+[tool.pyside6-project]
+files = [
+    "MainWindow/MainWindow.py",
+    "MainWindow/MainWindow.ui",
+
+    "MainWindow/Monitor/HandleOverlay.py",
+    "MainWindow/Monitor/Monitor.py",
+    "MainWindow/Monitor/Monitor.ui",
+    "MainWindow/Monitor/ui_Monitor.py",
+    "MainWindow/ui_MainWindow.py",
+    "main.py",
+]

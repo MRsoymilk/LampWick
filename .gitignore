@@ -1,5 +1,7 @@
 .qtcreator
 
+venv
+
 config
 
 **/__pycache__/
